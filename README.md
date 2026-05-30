@@ -2,7 +2,6 @@
 *Bridging the gap between high-level autonomous abstractions and low-level hardware execution bounds.*
 
 ---
-
 ## 🔬 Core System Architecture & Paradigms
 
 ### 🔘 Low-Latency & Hardware-Aware Optimization
@@ -32,3 +31,8 @@
 ├────────────────────────────────────────────────────────────────────────┤
 │  HARDWARE BOUNDS: Linux Kernel Configuration | L2 Cache Alignment      │
 └────────────────────────────────────────────────────────────────────────┘
+Low-Level & Compute: CUDA C, C++, C, Linux Kernel Optimization.
+
+High-Level Systems: Python (Advanced Asyncio, Numba JIT Compilation, Multiprocessing).
+
+Financial Infrastructure: MetaTrader 5 Integration, Quantitative Backtesting Engines.

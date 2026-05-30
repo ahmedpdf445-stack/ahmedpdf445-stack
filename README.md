@@ -1,4 +1,4 @@
-# ⚡ Ahmed | Systems Architect & Quantitative Infrastructure Engineer
+# ⚡ | Systems Architect & Quantitative Infrastructure Engineer
 *Bridging the gap between high-level autonomous abstractions and low-level hardware execution bounds.*
 
 ---
@@ -32,6 +32,11 @@
 │  HARDWARE BOUNDS: Linux Kernel Configuration | L2 Cache Alignment      │
 └────────────────────────────────────────────────────────────────────────┘
 Low-Level & Compute: CUDA C, C++, C, Linux Kernel Optimization.
+### ⚡ Core Stack Telemetry
+![Linux](https://img.shields.io/badge/Linux-Kernel_Optimization-000000?style=flat-square&logo=linux)
+![CUDA](https://img.shields.io/badge/CUDA_C-Hardware_Acceleration-000000?style=flat-square&logo=nvidia)
+![C++](https://img.shields.io/badge/C++-Low_Level_IPC-000000?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-Asyncio_&_Numba-000000?style=flat-square&logo=python)
 
 High-Level Systems: Python (Advanced Asyncio, Numba JIT Compilation, Multiprocessing).
 

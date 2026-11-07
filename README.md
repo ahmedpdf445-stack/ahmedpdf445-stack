@@ -63,10 +63,6 @@ I am a Systems Engineer specialized in **Low-Level Optimization & Distributed Ar
 
 ---
 
-*   [**Why Global Supply Chains are just Distributed Systems**](https://x.com/AhmedE51928) 
-*   [**The Physics of Market Crashes
-
----
 
 <!-- Snake Animation -->
 <div align="center">

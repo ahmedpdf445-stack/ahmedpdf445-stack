@@ -3,15 +3,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <h2>🏗️ System Architecture (Kernel to Cloud)</h2>
-  <p><i>Zero-Copy, Lock-Free, and Kernel-Bypass. We don't rely on the OS scheduler; we control the threads.</i></p>
-</div>
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryBorderColor': '#00ffcc', 'lineColor': '#ff00ff', 'fontFamily': 'JetBrains Mono', 'edgeLabelBackground': '#000000'}}}%%
-
 graph TD
     %% 🎨 Advanced Styling (Glowing Neon)
     classDef silicon fill:#000000,stroke:#ff0033,stroke-width:3px,color:#ff0033,stroke-dasharray: 5 5;
@@ -88,7 +79,16 @@ graph TD
     end
 
     %% Inter-Layer Connections
-    D -. "Performance Metrics" .-> F
+    D
+<div align="center">
+  <h2>🏗️ System Architecture (Kernel to Cloud)</h2>
+  <p><i>Zero-Copy, Lock-Free, and Kernel-Bypass. We don't rely on the OS scheduler; we control the threads.</i></p>
+</div>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryBorderColor': '#00ffcc', 'lineColor': '#ff00ff', 'fontFamily': 'JetBrains Mono', 'edgeLabelBackground': '#000000'}}}%%
+
+ -. "Performance Metrics" .-> F
 ```
 
 ---

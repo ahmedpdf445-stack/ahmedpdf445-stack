@@ -1,13 +1,9 @@
-
-```markdown
 <div align="center">
-  <!-- 🚀 Holographic 3D Header -->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:00ffcc,100:0d1117&height=200&section=header&text=SYSTEM.ARCHITECT&fontSize=60&fontAlignY=45&animation=blinking&fontColor=00ffcc&desc=Ahmed%20Emad%20%7C%20Low-Level%20Engineer&descAlignY=70&descSize=20" width="100%" />
 </div>
 
 <br>
 
-<!-- 🏗️ The Architecture Diagram (The First Thing You See) -->
 <div align="center">
   <h2>🏗️ System Architecture (Kernel to Cloud)</h2>
   <p><i>Zero-Copy, Lock-Free, and Kernel-Bypass. We don't rely on the OS scheduler; we control the threads.</i></p>
@@ -98,7 +94,6 @@ graph TD
 ---
 
 <div align="center">
-  <!-- ⚡ Matrix Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=500&color=00FFCC&center=true&vCenter=true&width=600&lines=%3E_+Initializing+Kernel...;%3E_+Bypassing+High-Level+Bottlenecks...;%3E_+Allocating+Zero-Latency+Memory...;%3E_+Welcome+to+the+Matrix." alt="Typing SVG" />
   </a>
@@ -107,7 +102,6 @@ graph TD
 <br>
 
 <div align="center">
-  <!-- 🌌 Animated Social Badges -->
   <a href="https://www.linkedin.com/in/ahmed-emad-25b11140b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/AhmedE51928"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:ahmedpdf445@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -197,4 +191,3 @@ The Impact: Achieved near-linear scalability for complex automated reasoning tas
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffcc,100:0d1117&height=120&section=footer&text=Amateurs%20optimize%20code.%20Architects%20optimize%20the%20boundaries%20between%20systems.&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
-```

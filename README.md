@@ -1,8 +1,101 @@
-markdown
+
+```markdown
 <div align="center">
   <!-- 🚀 Holographic 3D Header -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:00ffcc,100:0d1117&height=250&section=header&text=SYSTEM.ARCHITECT&fontSize=70&fontAlignY=45&animation=blinking&fontColor=00ffcc&desc=Ahmed%20Emad%20%7C%20Low-Level%20Engineer&descAlignY=70&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:00ffcc,100:0d1117&height=200&section=header&text=SYSTEM.ARCHITECT&fontSize=60&fontAlignY=45&animation=blinking&fontColor=00ffcc&desc=Ahmed%20Emad%20%7C%20Low-Level%20Engineer&descAlignY=70&descSize=20" width="100%" />
 </div>
+
+<br>
+
+<!-- 🏗️ The Architecture Diagram (The First Thing You See) -->
+<div align="center">
+  <h2>🏗️ System Architecture (Kernel to Cloud)</h2>
+  <p><i>Zero-Copy, Lock-Free, and Kernel-Bypass. We don't rely on the OS scheduler; we control the threads.</i></p>
+</div>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#0d1117', 'primaryBorderColor': '#00ffcc', 'lineColor': '#ff00ff', 'fontFamily': 'JetBrains Mono', 'edgeLabelBackground': '#000000'}}}%%
+
+graph TD
+    %% 🎨 Advanced Styling (Glowing Neon)
+    classDef silicon fill:#000000,stroke:#ff0033,stroke-width:3px,color:#ff0033,stroke-dasharray: 5 5;
+    classDef kernel fill:#0d1117,stroke:#00ffcc,stroke-width:3px,color:#00ffcc,box-shadow: 0 0 10px #00ffcc;
+    classDef math fill:#0d1117,stroke:#ff00ff,stroke-width:3px,color:#ff00ff;
+    classDef brain fill:#0d1117,stroke:#00ccff,stroke-width:3px,color:#00ccff;
+    classDef sword fill:#00ffcc,stroke:#000000,stroke-width:3px,color:#000000,font-weight:bold;
+    classDef danger fill:#ff0000,stroke:#000000,stroke-width:2px,color:#ffffff;
+
+    %% 🔴 LAYER 1: THE SILICON (Hardware)
+    subgraph L1 ["💀 LAYER 1: SILICON & HARDWARE"]
+        direction LR
+        A[<b>Market Data</b><br/>Raw TCP/UDP Packets]:::silicon
+        B[<b>NIC & CPU</b><br/>Hardware Cycles]:::silicon
+        A == "Zero-Copy" ==> B
+    end
+
+    %% 🟢 LAYER 2: THE KERNEL (Muscle)
+    subgraph L2 ["⚡ LAYER 2: KERNEL BYPASS (C++)"]
+        direction LR
+        C{<b>Ring Buffer</b><br/>Lock-Free Memory}:::kernel
+        D[<b>eBPF Probes</b><br/>System Telemetry]:::kernel
+        B == "Sub-Microsecond" ==> C
+        B -. "Trace" .-> D
+    end
+
+    %% 🟣 LAYER 3: THE MATH (Engines)
+    subgraph L3 ["🧬 LAYER 3: MATHEMATICAL ENGINES"]
+        direction TB
+        E1([Stochastic<br/>Brownian]):::math
+        E2([Chaos<br/>Lyapunov]):::math
+        E3([Entropy<br/>Shannon]):::math
+        E4([Fluid<br/>Navier-Stokes]):::math
+        E5([Kalman<br/>Noise Filter]):::math
+        E6([Riemann<br/>Zeta Zeros]):::math
+        E7([QAOA<br/>Quantum Opt]):::math
+
+        C --> E1
+        C --> E2
+        C --> E3
+        C --> E4
+        C --> E5
+        C --> E6
+        C --> E7
+    end
+
+    %% 🔵 LAYER 4: THE BRAIN (Agents)
+    subgraph L4 ["🧠 LAYER 4: MULTI-AGENT ORCHESTRATION"]
+        direction TB
+        F((<b>ORCHESTRATOR</b><br/>State Machine)):::brain
+        G[[<b>Risk Agent</b><br/>VaR & Kelly]]:::danger
+        H[[<b>Exec Agent</b><br/>Order Routing]]:::brain
+        
+        E1 --> F
+        E2 --> F
+        E3 --> F
+        E4 --> F
+        E5 --> F
+        E6 --> F
+        E7 --> F
+        
+        F == "Risk Signal" ==> G
+        F == "Execute" ==> H
+    end
+
+    %% 🟢 LAYER 5: THE EXECUTION (Sword)
+    subgraph L5 ["⚔️ LAYER 5: EXECUTION & FEEDBACK"]
+        direction LR
+        I{{<b>Broker API</b><br/>Exchange}}:::sword
+        J[<b>Order Sent</b><br/>< 1 Microsecond]:::sword
+        H --> I
+        I --> J
+        J -. "Feedback Loop" .-> A
+    end
+
+    %% Inter-Layer Connections
+    D -. "Performance Metrics" .-> F
+```
+
+---
 
 <div align="center">
   <!-- ⚡ Matrix Typing Effect -->
@@ -21,86 +114,6 @@ markdown
 </div>
 
 <br>
-
-<!-- 🏗️ The Architecture Diagram (Mermaid) -->
-### 🏗️ The Architecture (Kernel to Cloud)
-
-*Zero-Copy, Lock-Free, and Kernel-Bypass. We don't rely on the OS scheduler; we control the threads.*
-
-```mermaid
-graph TD
-    %% Define Styles
-    classDef hardware fill:#000000,stroke:#ff0000,stroke-width:2px,color:#ff0000;
-    classDef kernel fill:#0d1117,stroke:#00ffcc,stroke-width:2px,color:#00ffcc;
-    classDef engines fill:#0d1117,stroke:#ff00ff,stroke-width:2px,color:#ff00ff;
-    classDef agents fill:#0d1117,stroke:#00ffff,stroke-width:2px,color:#00ffff;
-    classDef execution fill:#00ff00,stroke:#000000,stroke-width:3px,color:#000000,font-weight:bold;
-
-    %% Layer 1: Hardware & Network (The Silicon)
-    subgraph "Layer 1: Silicon & Network"
-        A[Market Data Feed<br/>Raw TCP/UDP]:::hardware
-        B[Hardware Layer<br/>NIC / CPU Cycles]:::hardware
-        A -->|Zero-Copy| B
-    end
-
-    %% Layer 2: Kernel & IPC (The Muscle)
-    subgraph "Layer 2: Kernel Bypass (C++)"
-        C[Lock-Free Ring Buffer<br/>Shared Memory]:::kernel
-        D[eBPF Probes<br/>System Telemetry]:::kernel
-        B -->|Sub-microsecond| C
-        B -.->|Trace| D
-    end
-
-    %% Layer 3: The 7 Engines (The Math)
-    subgraph "Layer 3: Mathematical Engines"
-        E1[Stochastic<br/>Brownian Motion]:::engines
-        E2[Chaos Theory<br/>Lyapunov]:::engines
-        E3[Entropy<br/>Information Theory]:::engines
-        E4[Fluid Dynamics<br/>Order Flow]:::engines
-        E5[Kalman Filter<br/>Noise Reduction]:::engines
-        E6[Riemann Zeta<br/>Hidden Cycles]:::engines
-        E7[QAOA<br/>Quantum Optimization]:::engines
-        C -->|Data Stream| E1
-        C -->|Data Stream| E2
-        C -->|Data Stream| E3
-        C -->|Data Stream| E4
-        C -->|Data Stream| E5
-        C -->|Data Stream| E6
-        C -->|Data Stream| E7
-    end
-
-    %% Layer 4: Multi-Agent Orchestration (The Brain)
-    subgraph "Layer 4: Multi-Agent Orchestration (Python/Asyncio)"
-        F[Orchestrator Agent<br/>State Management]:::agents
-        G[Risk Agent<br/>VaR & Kelly]:::agents
-        H[Execution Agent<br/>Order Routing]:::agents
-        
-        E1 --> F
-        E2 --> F
-        E3 --> F
-        E4 --> F
-        E5 --> F
-        E6 --> F
-        E7 --> F
-        
-        F -->|Risk Signal| G
-        F -->|Execute Signal| H
-    end
-
-    %% Layer 5: The Final Execution (The Sword)
-    subgraph "Layer 5: Execution & Feedback"
-        I{Broker API / Exchange}:::execution
-        J[Sub-Microsecond Order Sent]:::execution
-        H --> I
-        I --> J
-        J -.->|Feedback Loop| A
-    end
-
-    %% Connections between Layers
-    D -.->|Performance Metrics| F
-```
-
----
 
 ⚡ The Engineering Paradigm
 
@@ -169,7 +182,7 @@ The Impact: Achieved near-linear scalability for complex automated reasoning tas
 
 <br>
 
-<!-- 🐍 The Snake Animation (Placeholder - will work once you add the workflow) -->
+<!-- 🐍 The Snake Animation -->
 
 <div align="center">
   <picture>
@@ -184,3 +197,4 @@ The Impact: Achieved near-linear scalability for complex automated reasoning tas
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffcc,100:0d1117&height=120&section=footer&text=Amateurs%20optimize%20code.%20Architects%20optimize%20the%20boundaries%20between%20systems.&fontSize=20&fontColor=ffffff" width="100%"/>
 </div>
+```

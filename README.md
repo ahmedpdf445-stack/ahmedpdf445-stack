@@ -166,6 +166,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0033,100:00ffcc&height=140&section=footer&text=Amateurs%20optimize%20code.%20Architects%20optimize%20the%20boundaries%20between%20systems.%20Legends%20optimize%20the%20market%20itself.&fontSize=16&fontColor=ffffff" width="100%"/>
 </div>
-
-<div align="center">
-  <i>Built in Suez, Egypt. De

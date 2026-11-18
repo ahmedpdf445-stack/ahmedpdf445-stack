@@ -1,16 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E3A8A,100:0F172A&height=250&section=header&text=AHMED%20EMAD&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=QUANTITATIVE%20SYSTEMS%20ARCHITECT%20%7C%20MACRO%20LIQUIDITY%20%7C%20RISK%20ENGINEERING&descAlignY=60&descSize=16" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=2500&pause=500&color=4DB8FF&center=true&vCenter=true&width=900&lines=%3E_+Liquidity+is+the+only+truth+in+the+market.;%3E_+Modeling+systemic+fragility+before+it+prices+in.;%3E_+Building+infrastructure+for+tail-risk+and+repo+market+mechanics.;%3E_+Risk+is+not+an+opinion.+It+is+an+engineered+metric." alt="Typing SVG" />
-</div>
-
-<div align="center">
-
-https://komarev.com/ghpvc/?username=ahmedpdf445-stack&color=1E3A8A&style=for-the-badge
-https://img.shields.io/github/followers/ahmedpdf445-stack?color=0F172A&style=for-the-badge&logo=github
-https://img.shields.io/github/stars/ahmedpdf445-stack?color=4DB8FF&style=for-the-badge
 
 <a href="https://www.linkedin.com/in/ahmed-emad-25b11140b"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=4DB8FF" /></a>
 <a href="https://x.com/AhmedE51928"><img src="https://img.shields.io/badge/X-0B0F19?style=for-the-badge&logo=x&logoColor=4DB8FF" /></a>

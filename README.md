@@ -1,44 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ffcc,100:ff00ff&height=280&section=header&text=AHMED%20EMAD&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=SYSTEM%20ARCHITECT%20%7C%20QUANT%20ENGINEER%20%7C%20LOW-LEVEL%20OPERATOR&descAlignY=60&descSize=17" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0033,100:00ffcc&height=250&section=header&text=AHMED%20EMAD&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=SYSTEM%20ARCHITECT%20%7C%20QUANT%20INFRASTRUCTURE%20%7C%20MARKET%20MICROSTRUCTURE&descAlignY=60&descSize=17" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1800&pause=300&color=FF0033&center=true&vCenter=true&width=850&lines=%3E_+I+don't+build+apps.+I+build+systems+that+survive+the+market.;%3E_+Wall+Street+runs+on+math.+Silicon+Valley+runs+on+code.;%3E_+I+run+on+both.;%3E_+Latency+is+money.+Risk+is+death.+Math+is+law." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=500&color=00FFCC&center=true&vCenter=true&width=900&lines=%3E_+Price+is+noise.+Liquidity+is+signal.;%3E_+I+engineer+the+systems+that+measure+the+unseen.;%3E_+If+you+can't+model+the+risk,+you+don't+own+the+asset.;%3E_+Math+is+the+only+law+that+doesn't+negotiate." alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedpdf445-stack&color=ff0033&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ahmedpdf445-stack?color=00ffcc&style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/github/stars/ahmedpdf445-stack?color=ff00ff&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/ahmedpdf445-stack/ahmedpdf445-stack?color=00ccff&style=for-the-badge)
+https://komarev.com/ghpvc/?username=ahmedpdf445-stack&color=ff0033&style=for-the-badge
+https://img.shields.io/github/followers/ahmedpdf445-stack?color=00ffcc&style=for-the-badge&logo=github
+https://img.shields.io/github/stars/ahmedpdf445-stack?color=ff00ff&style=for-the-badge
 
 <a href="https://www.linkedin.com/in/ahmed-emad-25b11140b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/AhmedE51928"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:ahmedpdf445@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://risk-guard.streamlit.app"><img src="https://img.shields.io/badge/LIVE_SYSTEM-RiskGuard-FF0033?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 
 </div>
 
-> ### ⚠️ DISCLAIMER
-> **This is not a portfolio. This is a weapons depot.**
-> Every repo here is either a live system, a kernel probe, or a mathematical model that prices risk faster than your Bloomberg terminal.
+⚠️ EXECUTIVE SUMMARY
+
+This is not a portfolio. This is a systems lab.
+I build low-latency infrastructure and quantitative models to price what the market ignores: Systemic Risk, Liquidity Decay, and Repo Market Fragility.
+If you are a discretionary trader, this is not for you. If you are a systems architect or a quant, let's talk.
 
 ---
 
-<div align="center">
-  <h1>🏗️ THE ARCHITECTURE OF WAR</h1>
-  <p><i>Silicon → Kernel → Math → Risk → Execution. Zero excuses. Zero latency tolerance.</i></p>
-</div>
-
-<div align="center">
-  <img src="architecture.png" width="100%" />
-</div>
+🏗️ THE ARCHITECTURE OF ALPHA
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%"><h3>⚡ LATENCY</h3><p><b>&lt; 50ms</b><br>Live SPX Feed<br>To Decision</p></td>
+      <td align="center" width="25%"><h3>⚡ LATENCY</h3><p><b>&lt; 50ms</b><br>Live SPX Feed<br>To Execution</p></td>
       <td align="center" width="25%"><h3>🧠 MATH</h3><p><b>6 ENGINES</b><br>Stochastic + VaR<br>Kelly + Entropy</p></td>
       <td align="center" width="25%"><h3>🛡️ RISK</h3><p><b>3 STATES</b><br>RED / YELLOW<br>GREEN - No Mercy</p></td>
       <td align="center" width="25%"><h3>💰 CAPITAL</h3><p><b>100% RULED</b><br>No Emotion<br>No Revenge Trade</p></td>
@@ -51,118 +44,90 @@
 <div align="center">
   <h1>🔴 LIVE WEAPON: RiskGuard</h1>
   <a href="https://risk-guard.streamlit.app">
-    <img src="https://img.shields.io/badge/▶️_CLICK_TO_DEPLOY_THE_SYSTEM-RiskGuard-FF0033?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/▶️_DEPLOY_THE_SYSTEM-RiskGuard-FF0033?style=for-the-badge&labelColor=000000" />
   </a>
   <h3>The Mathematical Firewall for 0DTE Options.</h3>
-  <p>While retail traders guess, RiskGuard calculates. While Wall Street pays $24,000/year for Bloomberg, this system pulls live SPX, computes Theta decay per minute, VaR 95%, and optimal Kelly size in real-time. For free.</p>
+  <p>While retail traders gamble on direction, RiskGuard prices the <b>Decay of Time (Theta)</b>. It pulls live SPX data, computes <b>VaR 95%</b>, and determines the <b>Optimal Kelly Size</b> in real-time. Built for desks that understand that survival is a mathematical equation, not a gut feeling.</p>
 </div>
 
-| System Module | What It Does | Wall Street Equivalent |
-| :--- | :--- | :--- |
-| **Live SPX Engine** | Real-time price, no delay | Bloomberg Terminal Feed |
-| **Theta Decay Engine** | How much money you bleed / minute | Goldman Sachs Options Desk |
-| **VaR 95% Engine** | Max loss with 95% confidence | JPMorgan Risk Model |
-| **Kelly Criterion** | Exact position size, mathematically optimal | Renaissance Technologies Sizing |
-| **Signal Engine** | RED = DO NOT TRADE / GREEN = GO | Citadel Signal System |
+System Module Mathematical Edge Institutional Equivalent
+Live SPX Engine Real-time Tape Reading Bloomberg Terminal Feed
+Theta Decay Engine \frac{\partial V}{\partial t} per minute (The Bleed) Goldman Sachs Options Desk
+VaR 95% Engine Historical Simulation + Fat Tails JPMorgan Risk Model
+Kelly Criterion f^* = \frac{bp - q}{b} (Optimal Sizing) Renaissance Technologies Sizing
+Signal Engine RED = Liquidity Crisis / GREEN = Risk-On Citadel Signal System
 
-> **If your system can't tell you your Theta decay per minute, you don't have a system. You have a casino.**
+"If your system can't price the bleed per minute, you're not a trader, you're a donor."
 
 ---
 
-### 🧬 THE DOCTRINE: HOW I BUILD
+🧬 THE DOCTRINE
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h2>🔴 SILICON VALLEY MODE</h2>
-      <p><b>Low-Level Execution</b></p>
+      <h2>🔴 INFRASTRUCTURE MODE</h2>
+      <p><b>The Machine</b></p>
       <p>Linux Kernel, eBPF, Memory Management, IPC, C/C++</p>
-      <p><i>I don't use frameworks to hide the machine. I go to the machine itself.</i></p>
-      <p><b>Rule:</b> If you don't understand the kernel, you don't own your code.</p>
+      <p><i>"Frameworks are abstractions. Abstractions leak. I go to the metal."</i></p>
+      <p><b>Rule:</b> If you don't own the kernel, you don't own your execution.</p>
     </td>
     <td width="50%" align="center">
-      <h2>🟢 WALL STREET MODE</h2>
-      <p><b>Quantitative Warfare</b></p>
+      <h2>🟢 QUANT MODE</h2>
+      <p><b>The Mathematics</b></p>
       <p>Stochastic Calculus, VaR, Kelly, Entropy, Kalman Filters</p>
-      <p><i>I don't trade opinions. I trade probability distributions.</i></p>
-      <p><b>Rule:</b> If it's not mathematically proven, it's gambling.</p>
+      <p><i>"The market is a probability distribution. I trade the tails."</i></p>
+      <p><b>Rule:</b> If it's not backtested and mathematically proven, it's noise.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ THE ARSENAL - NO TOYS, ONLY WEAPONS
+🚀 EXECUTION LEDGER (PROOF OF WORK)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,bash,git,docker,redis,postgres,nginx,streamlit&theme=dark" />
-  <br>
-  <p><b>C / C++</b> - For when Python is too slow | <b>Python</b> - For when math needs to be fast | <b>Linux / eBPF</b> - For seeing what others can't | <b>Redis / Postgres</b> - For state that never dies</p>
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,stackoverflow,figma,aws&theme=dark" />
-</div>
+🛡️ 01. RiskGuard - LIVE IN PRODUCTION
 
----
+Problem: 0DTE traders bleed capital from Theta decay in the final 30 minutes, unaware of their true risk exposure.
+Solution: A real-time engine that computes Theta/min, VaR (95%), and Optimal Kelly Sizing, issuing RED/YELLOW/GREEN systemic risk signals.
+Stack: Python, Streamlit, Yahoo Finance API, Stochastic Models.
+Status: 🟢 LIVE - Deploy Here
 
-### 🚀 PROOF OF EXECUTION - NOT PROMISES
+⚡ 02. Hyper-Kernel - R&D PHASE
 
-**🛡️ 01. RiskGuard - DEPLOYED LIVE**
-> **Problem:** 0DTE traders bleed thousands from Theta decay in the last 30 minutes and don't even know it.
-> **Kill:** Built a live engine that shows Theta / min, VaR, Kelly size, and RED/YELLOW/GREEN signal.
-> **Stack:** Python, Streamlit, Yahoo Finance API
-> **Status:** 🟢 LIVE - https://risk-guard.streamlit.app
+Problem: You cannot optimize what you cannot observe. Linux memory allocation is a black box.
+Solution: eBPF probes tracing memory allocations and IPC latency in real-time, with zero overhead.
+Stack: C, eBPF, Linux Tracing.
+Status: 🟡 PROBE IN DEVELOPMENT.
 
-**⚡ 02. Hyper-Kernel - IN DEVELOPMENT**
-> **Problem:** You can't optimize what you can't see. Linux memory is a black box.
-> **Kill:** eBPF probes tracing allocations in real-time, kernel-level visibility.
-> **Stack:** C, eBPF, Linux Tracing
-> **Status:** 🟡 BUILDING THE PROBE
+🧬 03. Agentic Orchestrator - ARCHITECTING
 
-**🧬 03. Quant Pipeline - IN DEVELOPMENT**
-> **Problem:** Monolithic scripts die at multi-step reasoning. Wall Street uses agents.
-> **Kill:** Multi-Agent System - Researcher / Coder / Reviewer via Redis Pub/Sub.
-> **Stack:** Python, Asyncio, Redis
-> **Status:** 🟡 ARCHITECTING THE ORCHESTRATOR
-
-**💀 04. [CLASSIFIED] - COMING SOON**
-> **Problem:** Can't talk about it yet.
-> **Status:** 🔴 REDACTED
+Problem: Monolithic scripts fail at multi-step reasoning under high market volatility.
+Solution: A Multi-Agent System (Researcher/Coder/Risk Manager) communicating via Redis Pub/Sub for sub-millisecond coordination.
+Stack: Python, Asyncio, Redis.
+Status: 🟡 DESIGN PHASE.
 
 ---
 
-### 📈 SYSTEM TELEMETRY - NUMBERS DON'T LIE
+📈 SYSTEM TELEMETRY
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedpdf445-stack&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FF0033&icon_color=00ffcc&text_color=ffffff&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedpdf445-stack&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FF0033&text_color=ffffff" width="48%" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedpdf445-stack&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=FF0033&fire=00ffcc&currStreakLabel=00ffcc" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedpdf445-stack&theme=matrix&no-frame=true&no-bg=true&margin-w=4" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedpdf445-stack&bg_color=0d1117&color=00ffcc&line=ff0033&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedpdf445-stack/ahmedpdf445-stack/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedpdf445-stack/ahmedpdf445-stack/output/github-contribution-grid-snake.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/ahmedpdf445-stack/ahmedpdf445-stack/output/github-contribution-grid-snake-dark.svg">
-  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🤝 WHO SHOULD TALK TO ME?</h2>
-  <p>If you build <b>trading systems, low-latency engines, kernel tools, or multi-agent systems</b> - Let's build.</p>
-  <p>If you want a <b>to-do app, a landing page, or a CRUD project</b> - Don't waste my time.</p>
+  <h2>🤝 THE FILTER: WHO SHOULD CONTACT ME?</h2>
+  <p>I only engage with builders and allocators.</p>
+  <p>If you are building <b>trading infrastructure, low-latency systems, or quantitative engines</b> - <i>Let's talk.</i></p>
+  <p>If you need a <b>landing page, a CRUD app, or a generic AI wrapper</b> - <i>Do not waste my time.</i></p>
   <br>
-  <a href="mailto:ahmedpdf445@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-I_READ_EVERYTHING-00ffcc?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-emad-25b11140b"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:ahmedpdf445@gmail.com"><img src="https://img.shields.io/badge/DIRECT_LINE-EMAIL-00ffcc?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-emad-25b11140b"><img src="https://img.shields.io/badge/ENCRYPTED_LINE-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0033,100:00ffcc&height=140&section=footer&text=Amateurs%20optimize%20code.%20Architects%20optimize%20the%20boundaries%20between%20systems.%20Legends%20optimize%20the%20market%20itself.&fontSize=16&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0033,100:00ffcc&height=120&section=footer&text=Amateurs%20optimize%20code.%20Architects%20optimize%20the%20boundaries.%20Legends%20optimize%20the%20market.&fontSize=16&fontColor=ffffff" width="100%"/>
 </div>
